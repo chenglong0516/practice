@@ -1,0 +1,12 @@
+.svn/**
+/target/**
+target
+.settings/**
+**/.settings/**
+settings
+.classpath
+.project
+.svn
+.metadata/**
+*.launch
+*.hprof
