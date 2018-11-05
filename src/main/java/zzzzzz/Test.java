@@ -17,7 +17,7 @@ public class Test {
 			//拆分银行名称和银行编码
 			String[] nameAndCode = "".split(",");
 			String[] nameAndCode1 = ",".split(",");
-			String[] nameAndCode2 = ",,".split(",");
+			String[] nameAndCode2 = ",,,".split(",");
 //			productReserveParams.setBank_name(nameAndCode[0]);
 //			if(nameAndCode.length>1){
 //				productReserveParams.setBank_code(nameAndCode[1]);
